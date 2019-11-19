@@ -1,3 +1,19 @@
+/*
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Quattrocento', serif;
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative:700,900|Quattrocento:400,700&display=swap');
+
 body {
     font-size: 16px;
+}
+
+header {
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+}
+
+p {
+    font-family: 'Quattrocento', serif;
 }
